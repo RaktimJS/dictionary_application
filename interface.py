@@ -4,7 +4,6 @@ import module
 import time
 
 from os import system
-from pack import pack
 
 def timer(s):
         while s: 
@@ -13,7 +12,6 @@ def timer(s):
 
 
 
-pack('interface.py')
 
 system('cls')
 

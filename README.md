@@ -1,32 +1,63 @@
-# Project Usage Agreement
+# DICTIONARIES
 
-## This agreement is effective from the date of publication and shall remain in force permanently.
+### A CLI-based Python project that performs various operations using and on Dictionaries.
 
-### Summary:
-You are permitted to use and share this project, provided that you credit the original author and do not modify or redistribute altered versions. No warranties are provided.
+___
+
+## About Me
+
+Hi, my name is Raktim, and I'm a senior high school student from a Tier 3 town named Pathsala, in the state of Assam, India.
+
+I'm very passionate about Computers and Mathematics, and I enjoy building systems that integrate Math with Computer Programming. As this program is the kind of project I enjoy working on the most, building it solo was a lot of fun!
+
+Email: __raktimunreal4@gmail.com__ GitHub: [__https://github.com/raktimjs__](https://github.com/raktimjs)
+
+___
+
+This app is built completely using Python and utilizes almost every Python concept from the 11th grade CBSE Computer Science syllabus (and very few concepts from 12th grade Computer Science).
+
+___
+
+## How was this made?
+
+1. The app is written entirely in Python and is split into two files:  
+   - `interface.py` (the main entry point)  
+   - `module.py` (contains all the dictionary-based operations)
+2. Uses dictionaries extensively to demonstrate key-value manipulation, search, and editing.
+3. Features include:
+   - Key guessing game
+   - Dictionary-based square generator
+   - Character frequency counter
+   - List editing within dictionaries
+   - Fetching keys with min/max values
+4. Makes use of abstracted random list/dict generators to support randomized data handling.
+5. Designed with CLI-friendly formatting, user input validation, and simple UX flows.
+
+___
+
+## What were the learnings?
+
+1. Got hands-on experience with dictionary operations: searching, updating, looping, and nesting.
+2. Practiced randomization, abstraction, and clean function design for reusability.
+3. Worked on building logical UI patterns for user-driven selection and termination.
+4. Reinforced the value of modularizing functionality for maintainability and clarity.
+5. Improved CLI presentation using ANSI codes and real-time feedback via loops and input parsing.
+
+___
+
+## How to run the program?
+
+- Make sure Python is installed and added to your system path.
+- Open a terminal in the project directory.
+- Run the file: `interface.py`
 
 ---
 
-### Terms of Use:
+## Final note
 
-1. **Usage Rights** – This project is free to use for personal and educational purposes without any fees.
+Please drop a mail with your feedback.  
+**I’d genuinely love it if anyone checking this project could share their thoughts.**
 
-2. **Sharing** – You may share the original, unmodified version of this project, provided that this agreement remains intact and included with all copies.
+Any kind of suggestions - concept improvements, code structuring, or feature ideas - are always welcome!
 
-3. **No Unauthorized Modifications** – Modifying and redistributing altered versions of this project are strictly prohibited. If you wish to make changes, you must keep them within your own work and not distribute them.
-
-4. **Attribution Requirement** – Proper credit must be given to the original author (Raktim) in any use case, including but not limited to:
-   - Presentations, reports, and school submissions: Acknowledgment in a references or credits section.
-   - Online posts or videos: A visible mention with a link to the original source or the author's Instagram (@raktimjs).
-   - If uncertain about attribution, please reach out via email at [raktimunreal4@gmail.com](mailto:raktimunreal4@gmail.com) or via Instagram.
-
-5. **No Warranty & Liability Disclaimer** – This project is provided "as is," without warranties of any kind, express or implied. The author is not responsible for any issues, data loss, or unintended consequences arising from its use.
-
-### Agreement:
-By using this project, you acknowledge and agree to these terms. Failure to comply may result in consequences as deemed appropriate.
-
----
-
-Drafted with the assistance of ChatGPT, but all rights and final authority remain with the original author.
-
-Good luck with your project! 🎉
+Thanks in advance! 😄
